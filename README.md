@@ -17,11 +17,9 @@ EasyJS - это учебник по языку программирования 
 <details>
 <summary>Список тем</summary>
 
-### 1. [Что такое IDE]()
+### 1. [Что такое окружение](https://github.com/EasyJS-dev/Environments/blob/main/Environment.md)
 
-### 2. [Visual Studio Code]()
-
-### 3. [Настройка, плагины и дополнения]()
+### 2. [Настройка Visual Studio Code](https://github.com/EasyJS-dev/Environments/blob/main/VSCode.md)
 
 </details>
 
